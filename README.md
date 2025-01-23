@@ -10,6 +10,7 @@ log all ABB means
 - -mod: games' mod
 - -demo: demo
 - -plugin: chrome plugins
+- -obs: obsolete
 
 # perffix
 - my-: my ideas/own project
