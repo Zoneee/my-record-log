@@ -13,6 +13,6 @@ log all ABB means
 
 # perffix
 - my-: my ideas/own project
-- mf-: front end
+- react-: react
 - py-: python
 - csharp: C#
