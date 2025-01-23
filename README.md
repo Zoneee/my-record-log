@@ -15,4 +15,7 @@ log all ABB means
 - my-: my ideas/own project
 - react-: react
 - py-: python
-- csharp: C#
+- node: nodejs
+- vue: vue
+- csharp/cs: C#
+- flutter: Flutter
